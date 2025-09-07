@@ -1,5 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0ef&center=true&vCenter=true&width=1000&lines=Aspiring+Full-Stack+Developer;MERN+Stack+%7C+AI+Models+%7C+Socket.io;Redux+Toolkit+%7C+Git%2FGitHub+%7C+React;BCA+Student+%40+Medi-Caps+University;State-Level+Volleyball+Player)
 
+<p align="center">
+  <img src="https://i.imgur.com/Wz8YqXh.gif" alt="anime typing" width="600" />
+</p>
+<p align="center">
+  <img src="https://64.media.tumblr.com/df1a22c8e9.gif" alt="anime hacker" width="700" />
+</p>
+
 # 💫 About Me:
 🚀 Aspiring **Full-Stack Developer** exploring the **MERN stack** and modern web technologies. <br><br>
 🤖 Enthusiast of **AI models**, integrating them into real-world applications. <br><br>
