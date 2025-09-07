@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/40/21/94/402194c8db6bf41861c1aef74a457117.gif" 
        alt="anime typing" 
-       width="100%" 
-       style="border-radius:20px; box-shadow:0 0 20px rgba(0,255,255,0.7);" />
+       width="600" 
+       style="border-radius:20px; box-shadow:0 0 15px rgba(0,0,0,0.6);" />
 </p>
 
 
