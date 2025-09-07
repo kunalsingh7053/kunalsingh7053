@@ -1,30 +1,44 @@
-<!-- 🕸️ Spider-Man Themed Animated Intro -->
+<!-- 🕸️🔥 Animated GitHub README (Spider-Man + Anime Typing) -->
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=1000&lines=🕷️+Hey%2C+I'm+Kunal+Singh+Patel;Aspiring+Full-Stack+Developer;MERN+%7C+AI+Models+%7C+Socket.io;Redux+Toolkit+%7C+React+%7C+Open+Source;Swinging+through+Code+like+Spider-Man)
+
+<!-- Anime Typing GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/40/21/94/402194c8db6bf41861c1aef74a457117.gif" 
+       alt="anime typing" 
+       width="90%" 
+       style="border-radius:25px; box-shadow:0 0 40px rgba(0,255,255,0.7);" />
+</p>
+
+---
 
 <!-- Spider-Man Swing GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/4c/c2/3a/4cc23ab9f1fcc0efd86ed0c8c5f84b4c.gif" 
        alt="Spider-Man" 
        width="100%" 
-       style="border-radius:25px; box-shadow:0 0 40px rgba(255,0,0,0.9),0 0 80px rgba(255,50,50,0.6);" />
+       style="border-radius:25px; box-shadow:0 0 50px rgba(255,0,0,0.9),0 0 90px rgba(255,20,20,0.7);" />
 </p>
 
 ---
 
-## 💫 About Me 🕸️
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=0ef&center=true&vCenter=true&width=600&lines=💫+About+Me" alt="About Me Typing" />
+</h1>
+
 <p align="center">
-  🚀 Exploring the <b>MERN Stack</b> & modern web technologies <br><br>
+  🚀 Exploring <b>MERN Stack</b> & modern web technologies <br><br>
   🤖 Passionate about <b>AI Models</b> & real-world applications <br><br>
   🔌 Skilled in <b>Socket.io</b> + <b>Redux Toolkit</b> for scalable apps <br><br>
   🎓 Pursuing <b>BCA @ Medi-Caps University, Indore</b> <br><br>
-  🏐 <b>State-Level Volleyball Player</b> — teamwork & persistence drive me <br><br>
-  🌱 Contributing to <b>Open Source</b> & personal projects <br><br>
+  🏐 <b>State-Level Volleyball Player</b> — teamwork & persistence <br><br>
+  🌱 Contributing to <b>Open Source</b> projects <br><br>
   ⚡ Motto: *“Code. Create. Collaborate.”*  
 </p>
 
 ---
 
-## 🕷️ Connect with Me
+## 🕸️ Connect with Me
 <p align="center">
   <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" width="50"/></a>
   <a href="https://www.instagram.com/_singhkunal___"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
@@ -36,7 +50,7 @@
 
 ---
 
-## 🕸️ Tech Arsenal
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,python,c,git,github" />
 </p>
@@ -45,12 +59,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh7053&theme=tokyonight&hide_border=true&show_icons=true" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kunalsingh7053&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh7053&theme=radical&hide_border=true&show_icons=true" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kunalsingh7053&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh7053&theme=tokyonight&hide_border=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh7053&theme=radical&hide_border=true&layout=compact" height="150px"/>
 </p>
 
 ---
@@ -62,20 +76,13 @@
 
 ---
 
-## ✍️ Quote for the Day
+## ✍️ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kunalsingh7053&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kunalsingh7053&icon=2&color=ff0000" />
+  <img src="https://visitcount.itsvg.in/api?id=kunalsingh7053&icon=2&color=ff3131" />
 </p>
