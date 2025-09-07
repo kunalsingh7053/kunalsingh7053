@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0ef&center=true&vCenter=true&width=1000&lines=Aspiring+Full-Stack+Developer;MERN+Stack+%7C+AI+Models+%7C+Socket.io;Redux+Toolkit+%7C+Git%2FGitHub+%7C+React;BCA+Student+%40+Medi-Caps+University;State-Level+Volleyball+Player)
+
 # 💫 About Me:
 🚀 Aspiring **Full-Stack Developer** exploring the **MERN stack** and modern web technologies. <br><br>
 🤖 Enthusiast of **AI models**, integrating them into real-world applications. <br><br>
