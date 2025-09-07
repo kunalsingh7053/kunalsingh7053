@@ -1,53 +1,45 @@
 <!-- Animated Intro Typing -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Aspiring+Full-Stack+Developer;MERN+Stack+%7C+AI+Models+%7C+Socket.io;Redux+Toolkit+%7C+Git%2FGitHub+%7C+React;BCA+Student+%40+Medi-Caps+University;State-Level+Volleyball+Player)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=1000&lines=🕸️+Swinging+Through+Code;Aspiring+Full-Stack+Developer;MERN+Stack+%7C+AI+Models+%7C+Socket.io;Redux+Toolkit+%7C+React+%7C+GitHub;State-Level+Volleyball+Player)
 
-<!-- Anime GIF -->
+<!-- Spider-Man GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/40/21/94/402194c8db6bf41861c1aef74a457117.gif" 
-       alt="anime typing" 
+  <img src="https://i.gifer.com/7VE.gif" 
+       alt="spiderman coding" 
        width="100%" 
-       style="border-radius:20px; box-shadow:0 0 25px rgba(0,255,255,0.8);" />
+       style="border-radius:20px; box-shadow:0 0 25px rgba(255,50,50,0.8);" />
 </p>
 
-<!-- About Me Title with Animation -->
+<!-- About Me Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FF61F6&center=true&vCenter=true&width=700&lines=%F0%9F%92%AB+About+Me" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=700&lines=💫+About+Me" alt="About Me Typing" />
 </h1>
 
-<!-- Badges -->
+<!-- About Me -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/AI-Models-blueviolet?style=for-the-badge&logo=artstation" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio" />
-  <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux" />
-</p>
-
-<!-- About Me Content -->
-<p align="center">
-  🚀 Exploring <b>MERN stack</b> & modern web technologies <br>  
-  🤖 Integrating <b>AI models</b> into real-world apps <br>  
-  🔌 Building real-time apps with <b>Socket.io</b> & <b>Redux Toolkit</b> <br>  
-  🎓 Pursuing <b>BCA @ Medi-Caps University, Indore</b> <br>  
-  🏐 <b>State-Level Volleyball Player</b> – persistence + teamwork <br>  
-  🌱 Contributing to <b>open source</b> projects <br>  
-  ⚡ <i>“Code. Create. Collaborate.”</i>  
+  🚀 Aspiring <b>Full-Stack Developer</b> exploring the <b>MERN stack</b> <br><br>
+  🤖 Enthusiast of <b>AI models</b> & real-world integrations <br><br>
+  🔌 Skilled in <b>Socket.io</b> & <b>Redux Toolkit</b> <br><br>
+  🎓 Pursuing <b>BCA @ Medi-Caps University, Indore</b> <br><br>
+  🏐 <b>State-Level Volleyball Player</b> – teamwork & persistence <br><br>
+  🌱 Contributing to <b>open source</b> projects <br><br>
+  ⚡ Motto: *“Code. Create. Collaborate.”*  
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" width="50"/></a>
-  <a href="https://www.instagram.com/_singhkunal___"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-  <a href="https://www.linkedin.com/in/kunal-patel-020b19285/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://in.pinterest.com/kunalsingh7053patel/"><img src="https://skillicons.dev/icons?i=pinterest" width="50"/></a>
-  <a href="https://x.com/kunalsingh7053"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-  <a href="mailto:kunalsingh7053patel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" width="45"/></a>
+  <a href="https://www.instagram.com/_singhkunal___"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://www.linkedin.com/in/kunal-patel-020b19285/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://in.pinterest.com/kunalsingh7053patel/"><img src="https://skillicons.dev/icons?i=pinterest" width="45"/></a>
+  <a href="https://x.com/kunalsingh7053"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="mailto:kunalsingh7053patel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🕸️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,python,c,git,github" />
 </p>
@@ -56,18 +48,18 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh7053&theme=tokyonight&hide_border=true&show_icons=true" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kunalsingh7053&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh7053&theme=radical&hide_border=true&show_icons=true" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kunalsingh7053&theme=radical&hide_border=true" height="180px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh7053&theme=tokyonight&hide_border=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh7053&theme=radical&hide_border=true&layout=compact" height="150px"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalsingh7053&theme=dracula&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalsingh7053&theme=darkhub&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -81,11 +73,11 @@
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kunalsingh7053&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kunalsingh7053&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kunalsingh7053&icon=2&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=kunalsingh7053&icon=2&color=red" />
 </p>
