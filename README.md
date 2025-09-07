@@ -2,13 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=1000&lines=🕷️+Hey%2C+I'm+Kunal+Singh+Patel;Aspiring+Full-Stack+Developer;MERN+%7C+AI+Models+%7C+Socket.io;Redux+Toolkit+%7C+React+%7C+Open+Source;Swinging+through+Code+like+Spider-Man)
 
-<!-- Anime Typing GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/40/21/94/402194c8db6bf41861c1aef74a457117.gif" 
-       alt="anime typing" 
-       width="90%" 
-       style="border-radius:25px; box-shadow:0 0 40px rgba(0,255,255,0.7);" />
-</p>
+
 
 ---
 
@@ -83,6 +77,10 @@
 
 ---
 
+<!-- Anime Typing GIF -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kunalsingh7053&icon=2&color=ff3131" />
+  <img src="https://i.pinimg.com/originals/40/21/94/402194c8db6bf41861c1aef74a457117.gif" 
+       alt="anime typing" 
+       width="90%" 
+       style="border-radius:25px; box-shadow:0 0 40px rgba(0,255,255,0.7);" />
 </p>
