@@ -13,13 +13,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FF61F6&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+About+Me" alt="About Me Typing" />
 </h1>
 
-🚀 Aspiring **Full-Stack Developer** exploring the **MERN stack** and modern web technologies. <br><br>
-🤖 Enthusiast of **AI models**, integrating them into real-world applications. <br><br>
-🔌 Skilled in **Socket.io** for real-time communication and **Redux Toolkit** for state management. <br><br>
-🎓 Currently pursuing **BCA @ Medi-Caps University, Indore**. <br><br>
-🏐 **State-Level Volleyball Player** — teamwork, discipline, and persistence guide both my code and my game. <br><br>
-🌱 Continuously learning, building projects, and contributing to **open source**. <br><br>
-⚡ Believe in: *“Code. Create. Collaborate.”*  
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/AI-Models-blueviolet?style=for-the-badge&logo=artstation" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio" />
+  <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux" />
+</p>
+
+🚀 Exploring **MERN stack** & modern web technologies <br>  
+🤖 Integrating **AI models** into real-world apps <br>  
+🔌 Building real-time apps with **Socket.io** & **Redux Toolkit** <br>  
+🎓 Pursuing **BCA @ Medi-Caps University, Indore** <br>  
+🏐 **State-Level Volleyball Player** – persistence + teamwork <br>  
+🌱 Contributing to **open source** projects <br>  
+⚡ *“Code. Create. Collaborate.”*  
+
 
 
 ---
