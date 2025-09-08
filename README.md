@@ -96,13 +96,23 @@
 </p>
 
 ---
+## 🎧 Coding Playlist
 
+<p align="center">
+  <audio controls>
+    <source src="https://YOUR-MP3-FILE-LINK.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+---
 ## ✍️ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
+
 
 <!-- Anime Typing GIF -->
 <p align="center">
