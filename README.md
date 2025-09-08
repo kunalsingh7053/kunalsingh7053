@@ -96,30 +96,6 @@
 </p>
 
 ---
-## 🎧 Coding Playlist  
-
-<p align="center">
-  <!-- Spotify Playlist Badge -->
-  <a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
-  </a>
-
-  <!-- YouTube Playlist Badge -->
-  <a href="https://youtube.com/playlist?list=YOUR_PLAYLIST_ID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist"/>
-  </a>
-
-  <!-- SoundCloud Playlist Badge -->
-  <a href="https://soundcloud.com/YOUR_USERNAME/sets/YOUR_PLAYLIST" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Playlist"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  🎶 *Music fuels my code — checkout my playlists while I build projects!*  
-</p>
 
 
 ---
