@@ -35,7 +35,6 @@
 ## 🕸️ Connect with Me
 <p align="center">
   <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" width="50"/></a>
-  <a href="https://www.instagram.com/_singhkunal___"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
   <a href="https://www.linkedin.com/in/kunal-patel-020b19285/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="https://in.pinterest.com/kunalsingh7053patel/"><img src="https://skillicons.dev/icons?i=pinterest" width="50"/></a>
   <a href="https://x.com/kunalsingh7053"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
@@ -46,49 +45,18 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,python,c,git,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,python,c,git,github" />
 </p>
 
-
 ---
 
----
-
-## 📊 GitHub Stats & Skill Breakdown
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh7053&theme=radical&hide_border=true&show_icons=true" height="180px"/>
-  <!-- removed automatic top-langs to use a custom Skill Breakdown below -->
-</p>
-
-### 🔧 Skill Breakdown (manual — shows JS → React → Express → Others)
-
-<p align="center">
-  <!-- Badges showing percentages -->
-  <img src="https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge" alt="JavaScript 60%"/>
-  <img src="https://img.shields.io/badge/React-20%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 20%"/>
-  <img src="https://img.shields.io/badge/Express-10%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 10%"/>
-  <img src="https://img.shields.io/badge/Others-10%25-lightgrey?style=for-the-badge" alt="Others 10%"/>
-</p>
-
-<p align="center" style="max-width:700px;">
-  <!-- Progress bars using simple markdown (works on GitHub) -->
-  <strong>JavaScript</strong><br/>
-  <p>🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%</p>
-
-  <strong>React</strong><br/>
-  <p>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%</p>
-
-  <strong>Express</strong><br/>
-  <p>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%</p>
-
-  <strong>Others</strong><br/>
-  <p>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%</p>
 </p>
 
 ---
-
-
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -97,15 +65,12 @@
 
 ---
 
-
----
 ## ✍️ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
-
 
 <!-- Anime Typing GIF -->
 <p align="center">
